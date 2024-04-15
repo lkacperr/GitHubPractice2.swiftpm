@@ -19,8 +19,8 @@ let package = Package(
             bundleIdentifier: "org.jhhs.625198.GitHubPractice2",
             displayVersion: "1.0",
             bundleVersion: "1",
-            appIcon: .placeholder(icon: .coffee),
-            accentColor: .presetColor(.pink),
+            appIcon: .placeholder(icon: .star),
+            accentColor: .presetColor(.cyan),
             supportedDeviceFamilies: [
                 .pad,
                 .phone
